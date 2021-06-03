@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Đào Thị Vân Anh ơiiii!',
     introDesc: `Sau đây là vài câu hỏi khảo sát khá là dễ
-    Em làm đi nhé :)) `,
+    Em làm đi nhé :) `,
     btnIntro: 'hihi',
     title: 'Em yêu anh bao nhiêu % 😙',
     desc: ' Chọn đúng mới được đó nhaa ',
